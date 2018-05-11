@@ -1,10 +1,32 @@
 #formHeader{
    height: 20px;
-  background-color: red;
+  background-color: #f5f4f4;
   padding: 0;
+  margin: 0;
+  height: 60px;
+}
+
+#formContainer {
+    background-color: white;
+    border: solid #f5f4f4d5;
 }
 
 #header {
-    
+    background-color: #1a2550;
+    color: white;
     text-align: center;
+    font-size: 300%;
+    font-weight: 800;
+}
+
+#topArticles {
+     height: 20px;
+     background-color: #f5f4f4;
+     padding: 0;
+     margin: 0;
+     height: 60px;
+}
+.topArticlesResults {
+    border: solid #f5f4f4d5;
+    min-height: 60px;
 }
